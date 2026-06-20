@@ -240,11 +240,6 @@ Full interactive documentation: `http://localhost:8000/docs`
 - Combines ML penalty (anomaly score + failure probability) with rule-based penalties (IEEE/IEC threshold violations)
 - Outputs: 0–100 score, risk level, contributing factors, threshold violations
 
----
-
-## 🖼 Screenshots
-
-*(Add dashboard, alerts page, and transformer detail screenshots here)*
 
 ---
 
